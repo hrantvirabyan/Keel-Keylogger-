@@ -22,7 +22,8 @@ Keel.exe
 
 
 TO RUN THE CODE
-__________________________________________________________________________________________________________________________________________________________________________
-***If downloaded, create a "log" folder due to Github not uploading the folder itself. 
+_________________________________________________________________________________________________________________________________________________________________________
 
 ***Make sure to have all the codes downloaded in the same folder "Keylogger" like a .exe file. 
+
+***Place all the files into a mother Keylogger folder with everything in the rep. 
